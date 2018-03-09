@@ -6,7 +6,8 @@
             "bien",
             "gif",
             "girl",
-            "sk8r"
+            "sk8r",
+            "sleepy"
         ],
         "title": "sk8r-girl.gif"
     },
@@ -83,7 +84,7 @@
     },
     {
         "category": "sleepy",
-        "path": "sleppy/sleepy1.gif",
+        "path": "sleepy/sleepy1.gif",
         "tags": [
             "cute",
             "cat",
