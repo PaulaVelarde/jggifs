@@ -80,5 +80,15 @@
             "gif"
         ],
         "title": "cutecat2.gif"
+    },
+    {
+        "category": "sleepy",
+        "path": "sleppy/sleepy1.gif",
+        "tags": [
+            "cute",
+            "cat",
+            "gif"
+        ],
+        "title": "cutecat1.gif"
     }
 ]
